@@ -1,64 +1,38 @@
-# Receta de Sándwich de Mantequilla y Mermelada
+# Biografía de Casv
 
-> Es una receta simple y practica.  
-
----
-
-## Ingredientes
-
-| Cantidad | Ingrediente         |
-|----------|---------------------|
-| 2        | Rebanadas de pan    |
-| 1 cda    | Mantequilla         |
-| 1 cda    | Mermelada           |
----
-
-## Utensilios Requeridos
-
-- [x] Cuchillo para untar
-- [x] Plato
+Hola, soy **Cammy Alexandra**. Actualmente soy estudiante de **Ingeniería de Sistemas** en la universidad UNSLP, y me apasiona aprender sobre tecnología, programación y todo lo relacionado con el entorno de la ciberseguridad.
 
 ---
 
-## Pasos para preparar
+## Sobre mí
 
-### 1. Preparar el pan
-
-- Se puede tostar el pan si quieres que esté crujiente o no.
-
----
-
-### 2. Untar los ingredientes
-
-#### Mantequilla
-
-- Con un cuchillo, unta la mantequilla en una rebanada de pan.
-
-#### Mermelada
-
-- Unta la mermelada en la otra rebanada.
+-  *Carrera:* Ingeniería de Sistemas
+-  *Deseo:* Tener mascotas algún día
+-  *Hobbys:* Jugar videojuegos en línea, bailar y procastinar 
 
 ---
 
-### 3. Armar el sándwich
+## Cosas que disfruto
 
-```plaintext
-[Mantequilla] + [Mermelada] = [Sándwich Perfecto]
-```
-
-- Junta las dos mitades con las caras untadas hacia adentro.
-- Presiona ligeramente.
+1. Siempe aprender cosas nuevas
+2. Jugar con amigos en línea
+3. Practicar deportes nuevos
+4. Escuchar música lofi mientras estudio
 
 ---
 
-### 4. Servir
+## Me gustaría en el futuro
 
-- Puedes:
-  - Cortarlo por la mitad (diagonal o vertical).
-  - Agregar algo para tomar de acompañamiento.
- 
+- [ ] Adoptar una mascota (¡o varias!)
+- [ ] Desarrollar un videojuego propio
+- [ ] Viajar a diferentes paises
+- [ ] Tener mi propio espacio donde vivir
+
 ---
 
-## Resultado Final
+> "_¡No tengo un gran poder mágico, pero tengo lo que más necesito! ¡Tengo el corazón para seguir luchando hasta el final!_"  
+> — *Asta, Black Clover*
 
-> El sándwich está listo para comerse.
+---
+
+_Gracias por leer un poco sobre mí :D_
