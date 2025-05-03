@@ -6,8 +6,11 @@ Hola, soy **Cammy Alexandra**. Actualmente soy estudiante de **Ingeniería de Si
 
 ## Sobre mí
 
--  *Carrera:* Ingeniería de Sistemas
--  *Deseo:* Tener mascotas algún día
+-  *Nombre:* Cammy
+-  *Genero:* Femenino
+-  *Cumpleaños:* 23 de Noviembe
+-  *Deseo:* Viajar por el mundo
+-  *Juegos:* HOK, MLBB, WOW, MO.CO, Brawl Stars...
 -  *Hobbys:* Jugar videojuegos en línea, bailar y procastinar 
 
 ---
@@ -26,7 +29,7 @@ Hola, soy **Cammy Alexandra**. Actualmente soy estudiante de **Ingeniería de Si
 - [ ] Adoptar una mascota (¡o varias!)
 - [ ] Desarrollar un videojuego propio
 - [ ] Viajar a diferentes paises
-- [ ] Tener mi propio espacio donde vivir
+- [ ] Tener mi propio estudio de juegos
 
 ---
 
