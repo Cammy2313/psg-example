@@ -1,0 +1,8 @@
+print("Persona: ¡Hola, Michi!")
+print("Gato: Miau, humano. ¿Traes comida?")
+print("Persona: Si, a desayunar, ¿cómo domiste?")
+print("Gato: Soñé que era un león... y tú eras mi sirviente. Bastante realista.")
+print("Persona: ¡Wow, nada alejado de la realidad! ¿Que haras hoy?")
+print("Gato: Dormir, comer, ignorarte un rato. Lo de siempre.")
+print("Persona: Bueno, entonces me voy a trabajar, Adios, Michi.")
+print("Gato: *Lo ignora* No olvides las croquetas.")
