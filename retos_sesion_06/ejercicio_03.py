@@ -1,0 +1,7 @@
+print("Tarjeta | Huella | Puerta se abre")
+print("-------------------------------")
+print(False, "   |", False, "   |", False)
+print(False, "   |", True,  "   |", True)
+print(True,  "   |", False, "   |", True)
+print(True,  "   |", True,  "   |", False)
+print("-------------------------------")
