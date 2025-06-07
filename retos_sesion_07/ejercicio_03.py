@@ -1,0 +1,3 @@
+palabra = "casas"
+pares = palabra[::2]  # índice par = 0, 2, 4...
+print("Caracteres con índice par:", pares)
