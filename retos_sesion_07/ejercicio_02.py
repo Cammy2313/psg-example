@@ -3,4 +3,4 @@ b = int(input("Ingresa el segundo número: "))
 c = int(input("Ingresa el tercer número: "))
 
 resultado = a - b - c
-print("Resultado de la resta:", resultado)
+print(f"Resultado de la resta: {resultado}")
