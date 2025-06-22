@@ -1,0 +1,15 @@
+print("Lista mixta con enteros y flotantes")
+mi_lista = [1, 2.5, 3, 4.75, 5, 6.2, 7, 8.8, 9, 10.1]
+print(mi_lista)
+
+print("Elementos y sus tipos")
+print(mi_lista[0], type(mi_lista[0]))
+print(mi_lista[1], type(mi_lista[1]))
+print(mi_lista[2], type(mi_lista[2]))
+print(mi_lista[3], type(mi_lista[3]))
+print(mi_lista[4], type(mi_lista[4]))
+print(mi_lista[5], type(mi_lista[5]))
+print(mi_lista[6], type(mi_lista[6]))
+print(mi_lista[7], type(mi_lista[7]))
+print(mi_lista[8], type(mi_lista[8]))
+print(mi_lista[9], type(mi_lista[9]))
