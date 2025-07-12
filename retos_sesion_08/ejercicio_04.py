@@ -1,5 +1,6 @@
+print ("Tupla de notas")
 notas = (10, 61, 0, 21, 22, 0, 32, 30, 41, 51, 5, 23, 100)
-
+print(notas)
 promedio = sum(notas) / len(notas)
-
 print("Promedio:", promedio)
+print("¿Aprobó el semestre?", promedio >= 51)

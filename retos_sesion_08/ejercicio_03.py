@@ -1,6 +1,9 @@
-pregunta = input("Ingresa una pregunta: ")
+ingresar_pregunta = input("Ingresa una pregunta: ")
+pregunta = tuple(ingresar_pregunta)
 
-pregunta_concatenada = ('¿', pregunta, '?')
+pregunta_completa = ('¿', ) + pregunta + ('?', )
 
-print("Tupla concatenada:", pregunta_concatenada)
-print("Tupla repetida 2 veces:", pregunta_concatenada * 2)
+print("Pregunta en tupla:", pregunta_completa)
+
+pregunta_repetida = pregunta_completa * 2
+print("Pregunta repetida:", pregunta_repetida)
