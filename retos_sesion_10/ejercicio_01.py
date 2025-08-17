@@ -1,2 +1,3 @@
 cadena = "📎📐📏✏️🖊️🖋️📎📌📏📇🗂️📁📌🗃️✏️📂🖇️"
-set(cadena)
+conjunto = set(cadena)
+print(conjunto)
