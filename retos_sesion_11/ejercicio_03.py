@@ -1,8 +1,5 @@
-especies = {
-    "canino": "🐶",
-    "felino": "🐱",
-    "aves": ["🐦", "🦅"]
-}
+tupla = (('canino', '🐶'), ('felino', '🐱'), ('aves', ['🐦', '🦅']))
+especies = dict(tupla)
 print(especies)
 
 aves_eliminadas = especies.pop("aves")

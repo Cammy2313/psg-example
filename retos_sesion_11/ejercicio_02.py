@@ -3,12 +3,13 @@ alimentos = {
     "zanahoria": ["conejo"]
 }
 print(alimentos)
-alimentos.update({
-    "pescado": ["gato"],
-    "croquetas": ["perro", "gato"],
-    "trigo": ["pájaro"],
-    "lechuga": ["conejo", "tortuga"]
-})
+
+alimentos.update(
+    pescado= ["gato"],
+    croquetas= ["perro", "gato"],
+    trigo= ["pájaro"],
+    lechuga= ["conejo", "tortuga"]
+)
 print(alimentos)
 
 existe = "trigo" in alimentos

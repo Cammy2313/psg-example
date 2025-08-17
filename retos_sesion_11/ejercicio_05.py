@@ -1,32 +1,50 @@
-arca = {
-    "🐶": 2,
-    "🐱": 2,
-    "🐯": 2,
-    "🐵": 2,
-    "🦄": 0,
-    "🦒": 1
-}
+print("=== Arca de Noé ===")
+arca = {"🐶": 2, "🐱": 2, "🐯": 2, "🐵": 2, "🦄": 0, "🦒": 1}
+print("Arca inicial:")
 print(arca)
 
-arca.update({
-    "🦓": 2,
-    "🦘": 2,
-    "🦚": 2
-})
-print("Se añadió 3 especies más", arca)
+# Añadir 3 especies más usando update()
+arca.update({"🦊": 2, "🐘": 2, "🐧": 2})
+print("Arca después de añadir 3 especies:")
+print(arca)
 
-for animal in arca:
-    print("Se toma lista de los animales en el arca",animal)
+print("Lista de animales en el arca:")
+iterador = iter(arca.items())
+par = next(iterador)
+print(par)
+par = next(iterador)
+print(par)
+par = next(iterador)
+print(par)
+par = next(iterador)
+print(par)
+par = next(iterador)
+print(par)
+par = next(iterador)
+print(par)
+par = next(iterador)
+print(par)
+par = next(iterador)
+print(par)
+par = next(iterador)
+print(par)
 
-existe = "🐲" in arca
-print ("¿Existe 🐲 en el arca?",existe)
+# Verificar si está la especie 'dragon' 🐲
+print("¿Existe el dragon 🐲 en el arca?")
+existe = '🐲' in arca
+print(existe)
 
-del arca["🦄"]
-print("Se eliminó la especie unicornio del arca", arca)
+# Eliminar la especie unicornio 🦄
+print("Eliminar unicornio 🦄 del arca:")
+del arca['🦄']
+print(arca)
 
-arca["🦒"] = 2
-print("Se modificó el valor de jirafa", arca)
+# Modificar el valor de la especie jirafa 🦒 por 2
+print("Modificar cantidad de jirafas 🦒 a 2:")
+arca['🦒'] = 2
+print(arca)
 
-print("////////////////DILUVIO//////////////////")
+# Vaciar el arca después del diluvio
+print("\nVaciar el arca:")
 arca.clear()
 print(arca)

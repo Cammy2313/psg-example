@@ -3,8 +3,7 @@ animal_marino = {
     "hábitat": "océano pacífico",
     "dieta": "carnívoro",
     "estado_salud": "saludable",
-    "edad": 7
+    "edad": 7,
+    "responsables": {"Lucía", "Carlos", "Marta"}
 }
 print("Animal marino :",animal_marino)
-responsables = {"Lucía", "Carlos", "Marta"}
-print("Responsables de su cuidado :",responsables)
