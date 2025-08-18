@@ -5,5 +5,3 @@ while contador < 20:
     print(a)
     a, b = b, a + b
     contador += 1
-
-print()

@@ -7,5 +7,3 @@ for fila in range(8):
         else:
             linea += "*"
     print(linea)
-
-print()

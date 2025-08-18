@@ -7,5 +7,3 @@ while True:
         print(f"{entrada} es múltiplo de 7")
     else:
         print(f"{entrada} no es múltiplo de 7")
-
-print()

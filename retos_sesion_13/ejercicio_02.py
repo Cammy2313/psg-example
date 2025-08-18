@@ -6,5 +6,3 @@ while contador < 20:
         print(n)
         contador += 1
     n += 1
-
-print()

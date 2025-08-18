@@ -8,5 +8,3 @@ while True:
         print("Es palíndromo")
     else:
         print("No es palíndromo")
-
-print()
